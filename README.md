@@ -1,0 +1,1 @@
+# Clarity-Plugin-Version
